@@ -6,7 +6,3 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
-
-```Powershell
-ForEach Num in Loop
-```
