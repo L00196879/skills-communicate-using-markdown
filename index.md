@@ -6,3 +6,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ]  Figure out github
+- [x]  Make random list
+- [ ]  Third option
